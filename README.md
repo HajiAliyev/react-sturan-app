@@ -1,6 +1,3 @@
-
-Certainly! Here's an updated version with links to headings:
-
 React  App
 Welcome to the React  App repository!
 
@@ -22,4 +19,4 @@ Copy code
 Why Babel?
 Considering the diverse landscape of browsers, not all of them fully support the latest JavaScript standards. Babel acts as our language translator, making sure our code speaks the language every browser understands.
 
-Feel free to explore the code, contribute, and enhance the React Sturman App! 🚀
+Feel free to explore the code, contribute, and enhance the React App! 🚀
